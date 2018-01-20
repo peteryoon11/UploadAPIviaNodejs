@@ -1,0 +1,10 @@
+{
+
+    "server": {
+        "server_port": 4500
+    },
+    "ftp_server":{
+            "port":"5999",
+            "host":"127.0.0.1"
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "uploadapivianodejs",
+  "version": "1.0.0",
+  "description": "upload api via ftp npm ",
+  "main": "upload_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peteryoon11/UploadAPIviaNodejs.git"
+  },
+  "keywords": [
+    "upload",
+    "api",
+    "retful",
+    "ftp",
+    "fs"
+  ],
+  "author": "jsyoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peteryoon11/UploadAPIviaNodejs/issues"
+  },
+  "homepage": "https://github.com/peteryoon11/UploadAPIviaNodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "ftp": "^0.3.10",
+    "http": "0.0.0"
+  }
+}
