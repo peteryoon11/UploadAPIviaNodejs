@@ -1,5 +1,6 @@
 # UploadAPIviaNodejs
 nodejs를 통한 file upload
+since 18.01.19
 version info 
 v1.0.0
 - - -
@@ -23,3 +24,4 @@ v1.0.0
 2. 모듈은 최대한 나누기
 3. 평소에 안썼지만 nodejs 에서 트렌드로 쓰는 부분 사용해 보기 
 4. test code 부분 적용 해보기 
+  - 관련해서 
